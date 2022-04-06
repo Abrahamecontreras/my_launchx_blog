@@ -19,5 +19,15 @@ En mi opinión, creo que un desarrollador debe cumplir con los siguientes puntos
 -Ser responsable -Siempre buscar mejorar -Saber ayudar y comunicar -Saber respetar</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://abrahamecontreras.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abrahamecontreras.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>title: &amp;ldquo;Mi ruta de aprendizaje en LauncX&amp;rdquo; date: 2022-06-01 description: &amp;lsquo;Los conocimientos adquiridos en mi viaje por LaunchX&amp;rsquo; ¡Hola!
+Aquí compartiré todos los conocimientos que he ido adquiriendo a lo largo de este viaje: -Jupyter Notebooks -Git -Github -Buenas prácticas de programación</description>
+    </item>
+    
   </channel>
 </rss>
