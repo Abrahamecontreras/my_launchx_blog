@@ -13,8 +13,7 @@ Tengo 24 años, soy alguien muy curioso y con ganas de siempre aprender algo nue
 viaje con todos los demás explorers.
 Estudié la carrera de Ingeniería en Sistemas Computacionales
 Mi primer trabajo profesional fue en una consultoría de desarrollo web llamada COSITEC.
-Mis pasatiempos suelen ser salir con amigos, ver uno que otro anime, escuchar música y dibujar, actualmente estoy iniciando en el mundillo del arte digital (novato total).
-Además me gusta jugar videojuegos desde que tengo memoria, entre los que destacan como mis favoritos están:
+Mis pasatiempos suelen ser salir con amigos, ver uno que otro anime, escuchar música y dibujar, actualmente estoy iniciando en el mundillo del arte digital (novato total), además me gusta jugar videojuegos desde que tengo memoria.
 
 Mi mayor vicio en esta vida es el café.☕
 
